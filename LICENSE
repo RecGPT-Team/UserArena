@@ -1,21 +1,42 @@
-MIT License
+UserArena Non-Commercial Research License and Data Use Agreement
 
 Copyright (c) 2026 Anonymous UserArena contributors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Scope
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+These terms apply to the original UserArena code, documentation, and dataset
+materials made available in this repository, including de-identified interaction
+records, product metadata, and reconstructed interface images (the "Materials").
+Third-party materials and dependencies remain subject to their respective
+licenses and rights; these terms do not replace those licenses or grant rights
+the UserArena contributors do not hold.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+2. Permitted use
+
+Subject to these terms, you may access, use, copy, and modify the Materials
+solely for non-commercial research. Retain this notice and agreement with any
+permitted copies. Commercial use requires prior written authorization from the
+applicable rights holders.
+
+3. Data use restrictions
+
+Consistent with the paper's Ethics and Data Statement, you must not:
+
+(a) attempt to re-identify users represented in the Materials;
+(b) link the Materials with external personal data; or
+(c) redistribute the Materials without prior authorization from the applicable
+    rights holders.
+
+Access to this repository does not authorize redistribution, sublicensing, or
+sale of the Materials. Any separately supplied data use agreement and access
+conditions must also be followed; this license does not waive them.
+
+4. No warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE
+MATERIALS.

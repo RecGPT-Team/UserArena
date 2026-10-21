@@ -2,7 +2,7 @@
 
 Code for *UserArena: Benchmarking Interactive User Simulation for Long-Horizon
 Shopping Agents*: environment, model rollout, evaluation, and On-Policy Trajectory
-Distillation (OPTD). License: [MIT](LICENSE).
+Distillation (OPTD). License: [Non-Commercial Research License and Data Use Agreement](LICENSE).
 
 ## Install
 
@@ -102,3 +102,13 @@ KD is state-equal and the GT coefficient is 0.1.
 Both need full-vocabulary logits. Compute `paired_row_weights(state_count, gold_weights=weights)`
 before splitting the effective update; the engine owns backward and synchronization.
 See docstrings for batch fields and `LossConfig.backward_scale`.
+
+
+## License and data use
+
+UserArena is available for **non-commercial research only** under the
+[UserArena Non-Commercial Research License and Data Use Agreement](LICENSE),
+consistent with the paper's Ethics and Data Statement. Attempts to re-identify
+users, linkage with external personal data, and unauthorized redistribution are
+prohibited. Commercial use requires prior written authorization. Third-party
+materials and dependencies retain their original licenses.
